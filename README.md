@@ -21,6 +21,6 @@ cd railway-occurence-analysis
 
 Download Dataset and put into project directory. 
 ```
-You can download the dataset from [pip](https://pip.pypa.io/en/stable/)
-Scroll down till The Dataset section then select ocurrence and click on CSV file.
+You can download the dataset from [Railway Occurrence](https://pip.pypa.io/en/stable/)
+Scroll down till The Dataset section then select occurrence and click on CSV file.
 ```
