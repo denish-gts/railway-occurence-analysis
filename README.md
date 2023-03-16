@@ -1,6 +1,5 @@
 <div align='center'>
     <h1><b>Railway Occurence Analysis</b></h1>
-    <img src='' width='250' height='250' />
     <p>Descriptive and Statstical analysis of Railway occurence Dataset using Python.</p>
 
 
